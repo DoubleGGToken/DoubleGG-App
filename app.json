@@ -4,12 +4,9 @@
     "slug": "doublegg",
     "version": "1.0.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "dark",
     "android": {
-      "package": "com.doublegg.app"
-    },
-    "ios": {
-      "bundleIdentifier": "com.doublegg.app"
+      "package": "com.doublegg.app",
+      "versionCode": 1
     },
     "extra": {
       "eas": {
