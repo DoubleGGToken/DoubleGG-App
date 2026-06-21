@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "DoubleGG",
+    "slug": "doublegg",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#080808"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#080808"
+      },
+      "package": "com.doublegg.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.doublegg.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "doublegg"
+      }
+    }
+  }
+}
